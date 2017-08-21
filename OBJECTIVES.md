@@ -1,4 +1,7 @@
-20% 1.0 Network Fundamentals
+https://learningnetwork.cisco.com/community/certifications/ccent/icnd1/exam-topics
+
+## 1.0 Network Fundamentals 20%
+```
 1.1 Compare and contrast OSI and TCP/IP models
 1.2 Compare and contrast TCP and UDP protocols
 1.3 Describe the impact of infrastructure components in an enterprise network
@@ -20,7 +23,6 @@
 1.9.a Unicast
 1.9.b Broadcast
 1.9.c Multicast
-2015 Cisco Systems, Inc. This document is Cisco Public. Page 2
 1.10 Describe the need for private IPv4 addressing
 1.11 Identify the appropriate IPv6 addressing scheme to satisfy addressing requirements in a
 LAN/WAN environment
@@ -34,7 +36,9 @@ LAN/WAN environment
 1.14.e Modified EUI 64
 1.14.f Autoconfiguration
 1.14.g Anycast
-26% 2.0 LAN Switching Fundamentals
+```
+## 2.0 LAN Switching Fundamentals 26%
+```
 2.1 Describe and verify switching concepts
 2.1.a MAC learning and aging
 2.1.b Frame switching
@@ -57,10 +61,11 @@ LAN/WAN environment
 2.7.b Dynamic
 2.7.c Sticky
 2.7.d Max MAC addresses
-2015 Cisco Systems, Inc. This document is Cisco Public. Page 3
 2.7.e Violation actions
 2.7.f Err-disable recovery
-25% 3.0 Routing Fundamentals
+```
+## 3.0 Routing Fundamentals 25%
+```
 3.1 Describe the routing concepts
 3.1.a Packet handling along the path through a network
 3.1.b Forwarding decision based on route lookup
@@ -85,7 +90,9 @@ LAN/WAN environment
 3.6.d Floating static
 3.7 Configure, verify, and troubleshoot RIPv2 for IPv4 (excluding authentication, filtering,
 manual summarization, redistribution)
-15% 4.0 Infrastructure Services
+```
+## 4.0 Infrastructure Services 15% 
+```
 4.1 Describe DNS lookup operation
 4.2 Troubleshoot client connectivity issues involving DNS
 4.3 Configure and verify DHCP on a router (excluding static reservations)
@@ -94,7 +101,6 @@ manual summarization, redistribution)
 4.3.c Client
 4.3.d TFTP, DNS, and gateway options
 4.4 Troubleshoot client- and router-based DHCP connectivity issues
-2015 Cisco Systems, Inc. This document is Cisco Public. Page 4
 4.5 Configure and verify NTP operating in client/server mode
 4.6 Configure, verify, and troubleshoot IPv4 standard numbered and named access list for
 routed interfaces
@@ -102,7 +108,9 @@ routed interfaces
 4.7.a Static
 4.7.b Pool
 4.7.c PAT
-14% 5.0 Infrastructure Maintenance
+```
+## 5.0 Infrastructure Maintenance 14% 
+```
 5.1 Configure and verify device-monitoring using syslog
 5.2 Configure and verify device management
 5.2.a Backup and restore device configuration
@@ -127,3 +135,4 @@ routed interfaces
 5.6.a Ping and traceroute with extended option
 5.6.b Terminal monitor
 5.6.c Log events
+```
