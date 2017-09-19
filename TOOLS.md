@@ -9,6 +9,6 @@
 
    http://routeralley.com
    
- ### Mac OS
+ ### Mac OS (prendre version 32 bits)
  
  https://wiki.winehq.org/MacOS
