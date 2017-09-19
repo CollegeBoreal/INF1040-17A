@@ -12,3 +12,7 @@
  ### Mac OS (prendre version 32 bits)
  
  https://wiki.winehq.org/MacOS
+ 
+ https://www.xquartz.org/
+ 
+ 
