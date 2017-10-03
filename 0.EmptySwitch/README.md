@@ -15,7 +15,7 @@ Instructions:
 
 * configurer l'adresse IP de votre PC (prendre l'adressage statique)
 
-* construisez votre cable (patch calble RJ45)
+* construisez votre cable (patch cable RJ45)
 
 * cabler votre PC a l'equipement de reseau
 
