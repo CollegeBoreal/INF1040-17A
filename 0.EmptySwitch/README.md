@@ -5,7 +5,7 @@ Exercice sur la comprehension d'un mini reseau local
 
 ![alt tag](./EmptySwitch.png)
 
-A l'aide des classes d'addresses IP construisez un reseau vous permettant de vous connecter ensemble:
+A l'aide des classes d'addresses IP construisez un reseau local vous permettant de vous connecter ensemble:
 
 ![alt tag](./LAN-Ranges.png)
 
@@ -20,5 +20,9 @@ Instructions:
 * cabler votre PC a l'equipement de reseau
 
 * appellez l'equipement d'un de vos camarades (i.e. ping)
+
+## Sources:
+
+
 
 
