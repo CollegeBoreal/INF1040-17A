@@ -23,6 +23,7 @@ Instructions:
 
 ## Sources:
 
+[IPv4 Subnetting](http://packetlife.net/media/library/15/IPv4_Subnetting.pdf) IPv4 Cheat Sheet
 
 
 
