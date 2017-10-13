@@ -12,7 +12,7 @@
 
 ---
 
- ### Mac OS (prendre version 32 bits)
+ ### Mac OS (prendre version 64 bits)
  
  https://wiki.winehq.org/MacOS
  
