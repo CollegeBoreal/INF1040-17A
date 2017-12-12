@@ -5,23 +5,10 @@
 en
 config t
 hostname R1
-enable password cisco
-enable secret etudiant
-
-line con 0
-password cisco
-login
-logging synchronous
-
-line vty 0 15
-password cisco
-login
-logging synchronous
 
 do wr
 exit
 exit
-
 
 ! Configurer les interfaces du routeur
 en
@@ -43,12 +30,6 @@ exit
 en
 config t
 hostname R2
-
-! Ajouter un utilisateur 
-username inf1023 privilege 15 password 0 cisco
-
-line con 0
-login local
 
 do wr
 exit
@@ -82,18 +63,6 @@ copy run start
 en
 config t
 hostname R3
-enable password cisco
-enable secret etudiant
-
-line con 0
-password cisco
-login
-logging synchronous
-
-line vty 0 15
-password cisco
-login
-logging synchronous
 
 do wr
 exit
