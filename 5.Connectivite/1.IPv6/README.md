@@ -21,4 +21,4 @@ Configurer les interfaces en IPV6
 SHOW IPV6 INTERFACE BRIEF 
 ```
 
-Note: Utiliser Cisco Packet Tracer 7.3.0
+Note: Utiliser Cisco Packet Tracer 7.1
