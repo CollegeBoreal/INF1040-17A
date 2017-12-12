@@ -6,7 +6,7 @@ Pour pratiquer cet example:
 ```
 - utiliser PacketTracer
 - Ouvrir le fichier ../0.IPv4/Modele/IPv4.pkt
-- Executer les commandes du fichier .txt
+- Executer les commandes du fichier .txt dans le repertoire Modele
 ```
 
 ![alt tag](https://github.com/CollegeBoreal/INF1040-201-17A-02/blob/master/5.Connectivite/1.IPv6/Modele/IPv6.png)
