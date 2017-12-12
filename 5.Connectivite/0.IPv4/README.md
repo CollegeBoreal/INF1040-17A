@@ -1,6 +1,4 @@
-# INF-1021
-
-##IPv4
+# IPv4
 
 Pour pratiquer cet example:
 
