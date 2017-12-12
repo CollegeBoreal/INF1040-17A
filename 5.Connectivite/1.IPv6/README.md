@@ -5,11 +5,11 @@
 Pour pratiquer cet example:
 ```
 - utiliser PacketTracer
-- Ouvrir le fichier ../0.IPv4/IPv4.pkt
+- Ouvrir le fichier ../0.IPv4/Modele/IPv4.pkt
 - Executer les commandes du fichier .txt
 ```
 
-![alt tag](https://github.com/setrar/INF-1023/blob/master/1.IPV6/IPv6.png)
+![alt tag](https://github.com/CollegeBoreal/INF1040-201-17A-02/blob/master/5.Connectivite/1.IPv6/Modele/IPv6.png)
 
 ## Le but de l'exercice:
 
@@ -21,4 +21,4 @@ Configurer les interfaces en IPV6
 SHOW IPV6 INTERFACE BRIEF 
 ```
 
-Note: Utiliser Cisco Packet Tracer 6.2.0
+Note: Utiliser Cisco Packet Tracer 7.3.0
