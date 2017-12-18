@@ -21,6 +21,6 @@ hello Flore
 
 | Reseau:             |  Routeur    | Commentaires (i.e. ping 10.10.10.5 )    |
 |---------------------|-------------|-----------------------------------------| 
-| 10.10.10.4/30       | [Ping]      |    => .6  `Adresse reseau manquant`     |
+| 10.10.10.4/30       | [Ping]      |    => .6  `nom Routeur R0>`             |
 | 10.10.10.4/30       | [Ping]      | .5 => .10                               |
 | 10.10.10.8/30       | [Ping]      |    => .9  `Adresse reseau manquant`     |
