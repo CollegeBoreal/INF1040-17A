@@ -19,7 +19,7 @@ Configurer les interfaces
 ## Les commandes a retenir:
 
 ```
-SHOW IP INTERFACE BRIEF 
+> SHOW IP INTERFACE BRIEF 
 ```
 
 Note: Utiliser Cisco Packet Tracer 7.1
