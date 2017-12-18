@@ -14,10 +14,10 @@ Bonjour,
 
 | Reseau:             |  Routeur    | Commentaires (i.e. ping 10.10.10.5 )    |
 |---------------------|-------------|-----------------------------------------| 
-| 192.168.100.0/24    | [Ping]      | .5                                      |
-| 192.168.101.0/24    | [Ping]      | .6                                      |
-| 192.168.101.0/24    | [Ping]      | .9                                      |
-| 192.168.102.0/24    | [Ping]      | .10                                     |
+| 192.168.100.0/24    | [None]      | .5  `Passerelle non connectee`          |
+| 192.168.101.0/24    | [None]      | .6  `Passerelle non connectee`          |
+| 192.168.101.0/24    | [None]      | .9  `Passerelle non connectee`          |
+| 192.168.102.0/24    | [None]      | .10  `Passerelle non connectee`         |
 
 | Reseau:             |  Routeur    | Commentaires (i.e. ping 10.10.10.5 )    |
 |---------------------|-------------|-----------------------------------------| 
