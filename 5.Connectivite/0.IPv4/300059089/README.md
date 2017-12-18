@@ -1,5 +1,10 @@
+# 300059089
 
-# Connectivite
+## Schema
+
+![alt tag](./300059089.png)
+
+## Connectivite
 
 | Reseau:             |  Passerelle | Commentaires (i.e. ping 192.168.100.254)|
 |---------------------|-------------|-----------------------------------------| 
