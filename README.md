@@ -1,6 +1,6 @@
 # INF1040-201-17A-02
 
-Introduction a la resautique - Automne 2017
+Introduction à la réseautique - Automne 2017
 
 ## Devoirs:
 
