@@ -2,7 +2,9 @@
 
 Introduction à la réseautique - Automne 2017
 
-## Devoirs:
+## Test: (Adressage)
+
+Mercredi - 03 Janv 2018 de 15:30 a 17:00
 
 
 ## Elements de Performance
