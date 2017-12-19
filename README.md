@@ -16,7 +16,7 @@ Introduction à la réseautique - Automne 2017
 | 5|03-10-17|[4.WireFrames](4.WireFrames) | Presentation de son projet              |  Interaction entre les cours           |
 | 6|10-10-17|[5.DataList](5.DataList)(*)  | Service (intro a Rx)                    |  Intro. [`Template & Data Binding`](https://angular.io/guide/displaying-data)  |
 | -| .      |                             | Interruption                            |                                        |
-| 7|21-11-17|[6.Theme](6.Theme) (*)       |  Construire un Theme .                  | Intro. au [`Bootsrapping`](https://angular.io/guide/bootstrapping)  |
+| 7|21-11-17| (*)                         | Rentree des classes                     |                                        |
 | 8|28-11-17|[7.Projet](7.Projet)         | Construire son projet                   | Intro. au [`Module`](https://angular.io/guide/ngmodule) |
 | 9|05-12-17|[8.Layout](8.Layout)         | Layout, Navigation et Menu              | Intro. au [`Routage`](https://angular.io/guide/router) |
 |10|12-12-17|[9.Forms](9.Forms)           | Formulaires  @media                      | Intro. au [`Formulaires`](https://angular.io/guide/user-input) |
