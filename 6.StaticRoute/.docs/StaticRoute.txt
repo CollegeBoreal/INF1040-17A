@@ -3,21 +3,6 @@
 
 ! =====================  Premier Routeur  =======================
 ! Entrer en mode privilege
-en
-
-! Configurer les interfaces du routeur
-config t
-int g0/0
-ip address 192.168.100.254 255.255.255.0
-no shut
-
-int s0/1/1
-ip address 10.10.10.5 255.255.255.252
-clock rate 4000000
-no shut
-
-do wr
-exit
 
 ! Configurer les routes statiques
 config t
@@ -30,25 +15,6 @@ exit
 
 ! =====================  Deuxieme Routeur  =======================
 ! Entrer en mode privilege
-en
-
-! Configurer les interfaces du routeur
-config t
-int g0/0
-ip address 192.168.101.254 255.255.255.0
-no shut
-
-int s0/1/0
-ip address 10.10.10.6 255.255.255.252
-no shut
-
-int s0/1/1
-ip address 10.10.10.9 255.255.255.252
-clock rate 4000000
-no shut
-
-do wr
-exit
 
 ! Configurer les routes statiques
 config t
@@ -62,20 +28,6 @@ exit
 
 ! =====================  Troisieme Routeur  =======================
 ! Entrer en mode privilege
-
-! Configurer les interfaces du routeur
-en
-config t
-int g0/0
-ip address 192.168.102.254 255.255.255.0
-no shut
-
-int s0/1/0
-ip address 10.10.10.10 255.255.255.252
-no shut
-
-do wr
-exit
 
 ! Configurer la route par defaut
 config t

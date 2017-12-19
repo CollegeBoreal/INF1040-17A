@@ -1,14 +1,15 @@
-# INF-1021
+# INF-1040
 
 ##Static Route
 
 Pour pratiquer cet example:
 ```
 - utiliser PacketTracer
+- Ouvrir le fichier ../0.IPv4/IPv4.pkt
 - Executer les commandes du fichier .txt
 ```
 
-![alt tag](https://github.com/CollegeBoreal/INF1021-16H/blob/master/4.StaticRoute/StaticRoute.png)
+![alt tag](.docs/StaticRoute.png)
 
 ## Le but de l'exercice:
 
