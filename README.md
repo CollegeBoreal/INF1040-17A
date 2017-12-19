@@ -22,9 +22,8 @@ Introduction a la resautique - Automne 2017
 |10|12-12-17|[9.Forms](9.Forms)           | Formulaires  @media                      | Intro. au [`Formulaires`](https://angular.io/guide/user-input) |
 |11|02-01-18|[10.Validation](10.Validation)(*)| Validation                                | Intro. au [`Validation des Formulaires`](https://angular.io/guide/form-validation) |
 | -| .      |                             | Interruption                            |                                        |
-| -|02-01-18| (*)                         | Retour Vacances Fin d'annee             |                                        |
-|12|09-01-18|[11.RxJs](11.RxJs)           | RxJs  et oAuth .                         |  Intro. a [`Reactive/Programming`](https://auth0.com/blog/understanding-reactive-programming-and-rxjs/) |
-|13|        |                             |                                         |                                        |
+|12|02-01-18| (*)                         | Retour Vacances Fin d'annee             |                                        |
+|13|09-01-18|[11.RxJs](11.RxJs)           | RxJs  et oAuth .                         |  Intro. a [`Reactive/Programming`](https://auth0.com/blog/understanding-reactive-programming-and-rxjs/) |
 |14|        |                             |                                         |                                        |
 |15|        |                             |                                         |                                        |
 
