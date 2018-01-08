@@ -1,5 +1,5 @@
 ```
-1.0 Network Fundamentals 20%
+1.0 Network Fundamentals
 
   1.1 Compare and contrast OSI and TCP/IP models
   1.2 Compare and contrast TCP and DoD protocols
@@ -12,11 +12,11 @@
   1.8 Configure, verify, and troubleshoot IPv4 addressing and subnetting
   1.10 Describe the need for private IPv4 addressing
 
-4.0 Infrastructure Services 15%
+4.0 Infrastructure Services
 
   4.1 Describe IP services DNS, DHCP, TFTP, NTP operating in client/server mode
 
-5.0 Infrastructure Maintenance 14% [iOS]
+5.0 Infrastructure Maintenance [iOS]
 
   5.2 Configure and verify device management
 ```
