@@ -2,7 +2,7 @@
 1.0 Network Fundamentals 20%
 
   1.1 Compare and contrast OSI and TCP/IP models
-  1.2 Compare and contrast TCP and UDP protocols
+  1.2 Compare and contrast TCP and DoD protocols
   1.4 Compare and contrast collapsed core and three-tier architectures
   1.5 Compare and contrast network topologies
     1.5.a Star
@@ -16,7 +16,7 @@
 
   4.1 Describe IP services DNS, DHCP, TFTP, NTP operating in client/server mode
 
-5.0 Infrastructure Maintenance 14%
+5.0 Infrastructure Maintenance 14% [iOS]
 
   5.2 Configure and verify device management
 ```
