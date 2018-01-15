@@ -1,6 +1,9 @@
 # . bonjour [Serges]
 
 
+![alt tag](./IPV6.png)
+
+
 ## Connectivite
 
 | Reseau:             |  Passerelle | Commentaires (i.e. ping 192.168.100.254)|
