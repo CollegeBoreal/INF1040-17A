@@ -1,6 +1,8 @@
 # . bonjour [Serges]
 
 
+`Travail Rendu en Retard -25%` 
+
 ![alt tag](./IPV6.png)
 
 
